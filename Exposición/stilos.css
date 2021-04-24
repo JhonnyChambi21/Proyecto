@@ -1,0 +1,12 @@
+.container {
+    background: rgb(253, 1, 1);
+    display: flex;
+    
+   
+  }
+  
+  .item {
+    background: rgb(2, 250, 15);
+    
+    
+  }
